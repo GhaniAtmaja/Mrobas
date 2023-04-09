@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6769854379602314827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6769854379602314826}
+  - component: {fileID: 6769854379602314825}
+  - component: {fileID: 5073972215028771123}
+  m_Layer: 0
+  m_Name: container_only
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6769854379602314826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6769854379602314827}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6769854379602314825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6769854379602314827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e21fc0702b0f90c448f3f58b37f50380, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5073972215028771123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6769854379602314827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15638d07e3eb948f582e8687e841a5c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectType: 0
+  ItemData:
+    id: 
+    objectType: 0
+    TumorCount: 0
+    SkinCount: 0
+    PointRefCount: 0
+    VentricleCount: 0
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+  skinData:
+    id: 
+    objectType: 0
+    IndicesData: 
+    Tangents: []
+    UV0: []
+    Vertices: []
+    Normals: []
+    Color: []
+    ExtraInfo: 
+    StreamSkin: 
+  tumorData:
+    id: 
+    objectType: 0
+    IndicesData: 
+    Tangents: []
+    UV0: []
+    Vertices: []
+    Normals: []
+    Color: []
+    ExtraInfo: 
+    StreamTumor: 
+  ventricleData:
+    id: 
+    objectType: 0
+    IndicesData: 
+    Tangents: []
+    UV0: []
+    Vertices: []
+    Normals: []
+    Color: []
+    ExtraInfo: 
+    StreamVentricle: 

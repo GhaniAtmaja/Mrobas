@@ -1,0 +1,3 @@
+rep "MROBAS-11-inch@mail_its_2418@cloud"
+  path "/"
+    smartbranch "/main"

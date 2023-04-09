@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "229425371250",
+    "firebase_url": "https://mrobas-ar-default-rtdb.firebaseio.com",
+    "project_id": "mrobas-ar",
+    "storage_bucket": "mrobas-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229425371250:ios:29bf76c3ffa61098e20aeb",
+        "android_client_info": {
+          "package_name": "com.zicoritonda.MRoBaS-AR2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229425371250-5dulr0ge6sqh24qkgk2kt469ig1mshk0.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJus4-Fe-yruXe0VFaryO2LpAhVEDKPZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

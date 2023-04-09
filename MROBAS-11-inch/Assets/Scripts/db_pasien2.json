@@ -1,0 +1,159 @@
+﻿{
+    "patient": [
+        {
+            "name": "Budi",
+            "brain_imaging": [
+                {
+                    "id": 1,
+                    "segments": [
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1FF1yNh47AxiIJtOJem7KxUAhIfCRD8um",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nurul_Hamzah",
+            "brain_imaging": [
+                {
+                    "id": 2,
+                    "segments": [
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=10XRwi2bkNqbtPwU2XKl2WZEDBySa62m9",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        },
+                        {
+                            "label": "Tumor",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1lBHlFkakHevO5jeUkC7E6WY911bPDM4-",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1FA-aePqL3FKu1yc2cMqSG2fkvBu1AOqD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Leny",
+            "brain_imaging": [
+                {
+                    "id": 3,
+                    "segments": [
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1mSPOYwgvtQNafQnhrfUFxdsycUuDZ-Wg",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        },
+                        {
+                            "label": "Tumor",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1izWtNxC0GVYH_3cNblaG-7YMPt_yfyzN",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1FA-aePqL3FKu1yc2cMqSG2fkvBu1AOqD"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Budi_lama",
+            "brain_imaging": [
+                {
+                    "id": 4,
+                    "segments": [
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1DKpyIEMMFlZ9n_vFu1R5jTTB3OHHtmTp",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Aziz",
+            "brain_imaging": [
+                {
+                    "id": 5,
+                    "segments": [
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1pcGX7z-9i8KkYvok18Plmxf_LKHFFF3O",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1_Oh6dg91FUgFoCtL1bipzmGOK9hu7ueX"
+                        },
+                        {
+                            "label": "Skull",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1fM4X1BIsROLiJuM7CeqkTcdm17M5vcoY",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1NB0v0DgOftbXCmpqdb_cawyDuWM5syHr"
+                        },
+                        {
+                            "label": "Ventricle",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1PuXh4NZoVr5knWKz6GwkF7J3iC2l0dl8",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1XZhL2B1f4pax5i0CyKfjrsJXmlp2VNd6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Badarudin",
+            "brain_imaging": [
+                {
+                    "id": 6,
+                    "segments": [
+                        {
+                            "label": "Tumor",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1IPy903Gpe_hnDn2XEpu0cFBfyBfU9rYF",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1FA-aePqL3FKu1yc2cMqSG2fkvBu1AOqD"
+                        },
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1EGoT_GeRJiuq86YJ2bfxxmVMdriPfeCy",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sunarji",
+            "brain_imaging": [
+                {
+                    "id": 7,
+                    "segments": [
+                        {
+                            "label": "Tumor",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1Gf0wv4SSTHqot9w-WHy1IepmbWCte74G",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1FA-aePqL3FKu1yc2cMqSG2fkvBu1AOqD"
+                        },
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1xx68Ncrph1HLeNhVwMcDJYd-Rb9q8MFT",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nurul_Hamzah",
+            "brain_imaging": [
+                {
+                    "id": 8,
+                    "segments": [
+                        {
+                            "label": "Skin",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1cA-Ah73yNwVsifN4yH-P9bQKG8_h7or0",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1HNkiTt43hrzDEWwH3D5ErQWKGlTbLw3G"
+                        },
+                        {
+                            "label": "Tumor",
+                            "link_obj": "https://drive.google.com/uc?export=download&id=1yUqEzpMs1VTJcxEAPKGv8nlcTtirNVEc",
+                            "link_icon": "https://drive.google.com/uc?export=download&id=1FA-aePqL3FKu1yc2cMqSG2fkvBu1AOqD"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
